@@ -1,0 +1,14 @@
+.parent {
+    height: 10vh;
+    display: flex;
+    margin-block-start: 100px;
+    justify-content: center;
+    /* add solution here */
+}
+
+.child {
+    
+    background-color: darkolivegreen;
+    color: white;
+    padding: 1rem;
+}

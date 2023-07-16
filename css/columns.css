@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+    height: 30vh;
+
+    /* add solution here */
+}
+
+li {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(245, 173, 41);
+    flex: 1;
+            
+    /* add solution here.. */
+
+}
